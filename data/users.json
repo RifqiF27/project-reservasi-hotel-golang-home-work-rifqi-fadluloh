@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "phone_number": "021123132",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "customer",
+    "password": "customer123",
+    "phone_number": "08112361783",
+    "role": "customer"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "customer_name": "customer",
+    "customer_phone": "08112361783",
+    "room_id": 1,
+    "reservation_date": "2024-11-19",
+    "total_payment": 200,
+    "payment_status": "Paid",
+    "reservation_status": "Confirmed",
+    "created_at": "2024-10-27T23:38:50+07:00"
+  }
+]
