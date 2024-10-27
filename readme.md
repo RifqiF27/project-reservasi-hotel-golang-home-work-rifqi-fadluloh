@@ -46,7 +46,7 @@ Akun berhasil dibuat!
 
 ```
    Silakan masukkan username: John
-   Silakan masukkan password: **\*\*\***
+   Silakan masukkan password: *******
    login berhasil
 ```
 
